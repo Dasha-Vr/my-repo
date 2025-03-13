@@ -1,3 +1,5 @@
 some text for header
 changes from <master>
-new changes for rebase
+changes from <first>
+
+text from master: new changes!!!
